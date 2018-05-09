@@ -12,11 +12,11 @@ The installation is rather quite simple.
 4. Drag & Drop all the contents inside the Drag & Drop into your FiveM Directory
 
 # Menu Controls
-F1 - Lambda Menu - Located in Trainers
-F2 - Lambda NoClip - Located in Trainers
-F3 - TrainerV - Located in Trainers
-F9 - Ambience Menu - Located in Other Mods
-Numpad * - Jordans Menu - Located in Trainers
+- F1 - Lambda Menu - Located in Trainers
+- F2 - Lambda NoClip - Located in Trainers
+- F3 - TrainerV - Located in Trainers
+- F9 - Ambience Menu - Located in Other Mods
+- Numpad * - Jordans Menu - Located in Trainers
 
 # Common Weapons with Damage
 Pistol 50 - 51
