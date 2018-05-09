@@ -19,27 +19,27 @@ The installation is rather quite simple.
 - Numpad * - Jordans Menu - Located in Trainers
 
 # Common Weapons with Damage
-Pistol 50 - 51
-AP Pistol - 28
-Heavy Pistol - 40
-Assault SMG - 23
-Heavy Shotgun - 117
-Carbine Rifle - 32
-Marksman Rifle - 65
+- Pistol 50 - 51
+- AP Pistol - 28
+- Heavy Pistol - 40
+- Assault SMG - 23
+- Heavy Shotgun - 117
+- Carbine Rifle - 32
+- Marksman Rifle - 65
 
 # Jordans Menu V1.7 Hotkeys
-Hancock mode - [ and ]
-Vehicle rockets - Numpad plus(+) or press horn
-Teleport to waypoint - =+
-Invisibility - ;:
-Fix player and fix/clean car - Caps lock
-Speed boost - Numpad 9 or RT + A
-Instant stop - Numpad 3 or LT + DPAD Down
-Remove attached objects - F11
-Disable spectate mode - F12
-Manual anti-crash routine - F8 or RB + DPAD Right
-Anti-crash cam toggle - F4 or LB + DPAD Down
-Change drive/walk on air height - arrow keys UP and DOWN
+- Hancock mode - [ and ]
+- Vehicle rockets - Numpad plus(+) or press horn
+- Teleport to waypoint - =+
+- Invisibility - ;:
+- Fix player and fix/clean car - Caps lock
+- Speed boost - Numpad 9 or RT + A
+- Instant stop - Numpad 3 or LT + DPAD Down
+- Remove attached objects - F11
+- Disable spectate mode - F12
+- Manual anti-crash routine - F8 or RB + DPAD Right
+- Anti-crash cam toggle - F4 or LB + DPAD Down
+- Change drive/walk on air height - arrow keys UP and DOWN
 
 That's it. It's all installed
 
